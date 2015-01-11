@@ -1,5 +1,8 @@
 {
   "jspm": {
-    "name": "todo"
+    "name": "todo",
+    "dependencies": {
+      "observed": "npm:observed@^1.1.0"
+    }
   }
 }
